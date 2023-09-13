@@ -1,2 +1,2 @@
 # Olá mundo
-Siga estes passos para
+Aqui começamos criando um novo documento de ramificação dentro do main.
